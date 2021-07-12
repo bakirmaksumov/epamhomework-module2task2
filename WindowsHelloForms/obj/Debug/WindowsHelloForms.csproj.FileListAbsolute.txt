@@ -1,0 +1,10 @@
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\bin\Debug\WindowsHelloForms.exe.config
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\bin\Debug\WindowsHelloForms.exe
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\bin\Debug\WindowsHelloForms.pdb
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\obj\Debug\WindowsHelloForms.csproj.AssemblyReference.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\obj\Debug\WindowsHelloForms.AppMainForm.resources
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\obj\Debug\WindowsHelloForms.Properties.Resources.resources
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\obj\Debug\WindowsHelloForms.csproj.GenerateResource.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\obj\Debug\WindowsHelloForms.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\obj\Debug\WindowsHelloForms.exe
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloForms\WindowsHelloForms\obj\Debug\WindowsHelloForms.pdb
